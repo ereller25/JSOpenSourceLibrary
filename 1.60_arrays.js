@@ -1,5 +1,7 @@
 //Arrays
 
+var emptyArray = [];
+
 var majorsArray = ["Poli Sci", "Journalism", "Criminal Justice", "Psych", "Business"];
 
 console.log(majorsArray);
