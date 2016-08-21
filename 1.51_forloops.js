@@ -15,3 +15,8 @@ for(var i = 0; i <= 100; i+=10){
 	}
 	console.log(i);
 };
+
+
+for ( var i = 1/*variable/index section*/; i <= 10/*conditional section*/;i++/*increment*/){
+	console.log("Number:", i);
+}
