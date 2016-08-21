@@ -16,6 +16,7 @@ console.log(mastery);
 // && and
 // || or
 // ! not
+// === is equal to and has the same type as
 
 var math = 10 > 5;
 console.log(math);
